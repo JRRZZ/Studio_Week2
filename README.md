@@ -1,2 +1,3 @@
 # Studio_Week2
-Testing ReadMe.md
+Hello there
+> My name is JR
